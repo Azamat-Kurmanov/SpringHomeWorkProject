@@ -22,6 +22,7 @@ target/
 mvnw
 *.properties
 *.jar
+main/resources/
 
 ### NetBeans ###
 /nbproject/private/
